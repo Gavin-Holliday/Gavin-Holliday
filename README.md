@@ -12,14 +12,14 @@
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=social)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikmesh&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)  
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikmesh&logoColor=white&style=plastic)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)  
 
 ---
 
