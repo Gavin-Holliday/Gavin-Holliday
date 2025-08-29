@@ -36,11 +36,6 @@
 
 ---
 
-## 🎶 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/gavin32holliday)
-
----
-
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavin-holliday)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a5638?logo=About.me&logoColor=white)](https://yourwebsite.com)  
@@ -48,7 +43,25 @@
 ---
 
 <!-- Snake contribution graph -->
-![snake gif](https://github.com/Gavin-Holliday/blob/output/github-contribution-grid-snake.svg)
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=696969&text=“It%20is%20better%20to%20be%20hated%20for%20what%20you%20are%20than%20to%20be%20loved%20for%20what%20you%20are%20not.”%20―%20Andre%20Gide&textBg=false&fontColor=FFFFFF&fontSize=19&fontAlignY=70&animation=twinkling&stroke=FFFFFF&strokeWidth=0&descSize=100&descAlign=87&descAlignY=60&fontAlign=50&section=footer)
