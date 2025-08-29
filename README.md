@@ -51,5 +51,5 @@
 ![snake gif](https://github.com/Gavin-Holliday/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=511314&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
 
