@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=511314&height=200&section=header&text=Hi%20I'm%20Gavin%20👋&fontSize=50&fontColor=ffffff&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=speech&height=200&color=timeAuto&text=Hi%20I'm%20Gavin&textBg=false&fontColor=FFFFFF&fontSize=100&fontAlignY=60&animation=twinkling&stroke=000000&strokeWidth=3&desc=👋&descSize=100&descAlign=87&descAlignY=60&fontAlign=40)
 
 # 🚀 About Me  
 - 🎓 CS undergrad @ Texas State University  
