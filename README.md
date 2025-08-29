@@ -32,7 +32,11 @@
 
 ## 📊 GitHub Stats  
 [![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavin-holliday&show_icons=true&theme=dark)](https://github.com/gavin-holliday/github-readme-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-holliday&layout=compact&theme=dark)](https://github.com/gavin-holliday/github-readme-stats)
+
+<!-- Snake contribution graph -->
+![snake animation](https://raw.githubusercontent.com/gavin-holliday/gavin-holliday/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
@@ -41,9 +45,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a5638?logo=About.me&logoColor=white)](https://yourwebsite.com)  
 
 ---
-
-<!-- Snake contribution graph -->
-![snake animation](https://raw.githubusercontent.com/gavin-holliday/gavin-holliday/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=696969&text=“It%20is%20better%20to%20be%20hated%20for%20what%20you%20are%20than%20to%20be%20loved%20for%20what%20you%20are%20not.”%20―%20Andre%20Gide&textBg=false&fontColor=FFFFFF&fontSize=19&fontAlignY=70&animation=twinkling&stroke=FFFFFF&strokeWidth=0&descSize=100&descAlign=87&descAlignY=60&fontAlign=50&section=footer)
