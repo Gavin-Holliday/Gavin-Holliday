@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats  
-[![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavin-holliday&show_icons=true&theme=dark)](https://github.com/gavin-holliday/github-readme-stats) 
+[![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavin-holliday&show_icons=true&theme=dark)](https://github.com/gavin-holliday/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-holliday&layout=compact)](https://github.com/gavin-holliday/github-readme-stats)
 
 ---
