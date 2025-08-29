@@ -51,5 +51,5 @@
 ![snake gif](https://github.com/Gavin-Holliday/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=“It%20is%20better%20to%20be%20hated%20for%20what%20you%20are%20than%20to%20be%20loved%20for%20what%20you%20are%20not.”%20―%20Andre%20Gide&textBg=false&fontColor=FFFFFF&fontSize=19&fontAlignY=70&animation=twinkling&stroke=FFFFFF&strokeWidth=0&descSize=100&descAlign=87&descAlignY=60&fontAlign=50&section=footer)
 
