@@ -37,7 +37,7 @@
 ---
 
 ## 🎶 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_ID)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/gavin32holliday)
 
 ---
 
